@@ -34,7 +34,7 @@
   - [Hvorfor vi bruker C#/.NET](#cnet)
   - [Hvorfor vi bruker Python](#python)
 - [Representasjon av oss når vi koder](#representasjon-av-oss-når-vi-koder)
-- [日本語の段落](#japansk-avsnitt)
+- [日本語](#japansk-avsnitt)
 # Kodespråk
 ### I denne organisasjonen koder vi i utgangspunktet i:
 - **C#/.NET**

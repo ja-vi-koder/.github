@@ -14,15 +14,14 @@
 <hr>
 
 # Table of Contents
-[Kodespråk](#kodespråk)
-
-[Placeholder](#placeholder)
+- [Kodespråk](#kodespråk)
+- [Representasjon av oss når vi koder](#representasjon-av-oss-når-vi-koder)
 
 # Kodespråk
 I denne organisasjonen koder vi i utgangspunktet i:
 - C#/.NET
 - Python
 
-# Fett bilde
+# Representasjon av oss når vi koder
 
 ![image](bigbrain.png)

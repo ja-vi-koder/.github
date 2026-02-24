@@ -4,24 +4,30 @@
 
 <h1 align="center"><i> Velkommen til J.A-vi-Koder. </i></h1>
 
-<br>
+<h3><i> <b>J</b> står for Johannes </i></h3>
 
- **J** står for Johannes
- 
- **A** står for Audun
+<h3><i> <b>A</b> står for Audun </i></h3>
 </div>
 
 <hr>
 
 # Table of Contents
 - [Kodespråk](#kodespråk)
+  - [Hvorfor vi bruker C#/.NET](#cnet)
+  - [Hvorfor vi bruker Python](#python)
 - [Representasjon av oss når vi koder](#representasjon-av-oss-når-vi-koder)
 
 # Kodespråk
-I denne organisasjonen koder vi i utgangspunktet i:
-- C#/.NET
-- Python
+### I denne organisasjonen koder vi i utgangspunktet i:
+- **C#/.NET**
+- **Python**
+Det vil være tilfeller her og der hvor andre språk er benyttet.
 
+## C#/.NET
+[Fordeler med C#/.NET]
+
+## Python
+[Fordeler med Python]
 # Representasjon av oss når vi koder
-
+True story
 ![image](bigbrain.png)
